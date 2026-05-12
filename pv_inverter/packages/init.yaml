@@ -46,14 +46,6 @@ ota:
     id: ota_esphome
     password: ${ota_password}
 
-wifi:
-  ssid: ${wifi_ssid}
-  password: ${wifi_password}
-
-  ap:
-    ssid: "${friendly_name} Fallback Hotspot"
-    password: ${fallback_password}
-
 captive_portal:
 
 uart:
