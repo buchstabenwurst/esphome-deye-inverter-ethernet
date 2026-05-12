@@ -33,7 +33,7 @@ substitutions:
 
 packages:
   pv_inverter:
-    url: https://github.com/Lewa-Reka/esphome-deye-inverter
+    url: https://github.com/buchstabenwurst/esphome-deye-inverter-ethernet
     refresh: 12h
     files: pv_inverter/deye_hybrid_3p_hv.yaml # SG0XHP3 High Voltage (3P)
 
